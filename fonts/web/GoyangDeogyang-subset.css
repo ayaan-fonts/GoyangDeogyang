@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'GoyangDeogyang';
+	font-weight: 800;
+	font-display: swap;
+	src: local('GoyangDeogyang ExtraBold'), url('./woff2-subset/GoyangDeogyang-ExtraBold.subset.woff2') format('woff2'), url('./woff-subset/GoyangDeogyang-ExtraBold.subset.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'GoyangDeogyang';
+	font-weight: 700;
+	font-display: swap;
+	src: local('GoyangDeogyang Bold'), url('./woff2-subset/GoyangDeogyang-Bold.subset.woff2') format('woff2'), url('./woff-subset/GoyangDeogyang-Bold.subset.woff') format('woff');
+}
